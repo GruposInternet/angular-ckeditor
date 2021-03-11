@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lemonde/angular-ckeditor.git"
+    "url": "git:github.com/GruposInternet/angular-ckeditor"
   },
   "keywords": [
     "angular",
     "directive",
     "ckeditor"
   ],
-  "author": "Team Le8 <projet-cms-tech@lemonde.fr>",
+  "author": "Grupos Internet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lemonde/angular-ckeditor/issues"
+    "url": "https://github.com/GruposInternet/angular-ckeditor/issues"
   },
-  "homepage": "https://github.com/lemonde/angular-ckeditor",
+  "homepage": "https://github.com/GruposInternet/angular-ckeditor",
   "peerDependencies": {
     "angular": "1.x",
     "ckeditor": "4.x"
